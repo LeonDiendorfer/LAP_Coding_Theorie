@@ -7,7 +7,7 @@ Umfang und Korrektheit der Ausarbeitung ist nach persönlichen Ermessen erfolgt,
 
 ### Hot Topics
 ``Thema 5`` *(nicht in die Tiefe)* Gesetzliche Bestimmungen im Zusammenhang mit Applikationsentwicklung<br>
-``Thema 6`` Netzwerkdienste
-``Thema 11`` Informatik
-``Thema 15`` Grundkenntnisse des Programmierens
-``Thema 16`` Kenntnis und Verwendung von Datenbanken, Datenmodellen und Datenstrukturen
+``Thema 6`` Netzwerkdienste<br>
+``Thema 11`` Informatik<br>
+``Thema 15`` Grundkenntnisse des Programmierens<br>
+``Thema 16`` Kenntnis und Verwendung von Datenbanken, Datenmodellen und Datenstrukturen<br>
