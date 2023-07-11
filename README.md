@@ -7,7 +7,7 @@ Umfang und Korrektheit der Ausarbeitung ist nach persönlichen Ermessen erfolgt,
 
 ---
 
-### Hot Topics
+### Hot Topics 🔥
 ``Thema 5`` *(nicht in die Tiefe)* Gesetzliche Bestimmungen im Zusammenhang mit Applikationsentwicklung<br>
 ``Thema 6`` Netzwerkdienste<br>
 ``Thema 11`` Informatik<br>
@@ -21,16 +21,16 @@ Umfang und Korrektheit der Ausarbeitung ist nach persönlichen Ermessen erfolgt,
 - [x] ``Thema 2``
 - [x] ``Thema 3``
 - [x] ``Thema 4``
-- [x] ``Thema 5``
-- [x] ``Thema 6``
+- [x] ``Thema 5`` 🔥
+- [x] ``Thema 6`` 🔥
 - [x] ``Thema 7``
 - [ ] ``Thema 8``
 - [ ] ``Thema 9``
 - [ ] ``Thema 10``
-- [x] ``Thema 11``
+- [x] ``Thema 11`` 🔥
 - [ ] ``Thema 12``
 - [ ] ``Thema 13``
 - [ ] ``Thema 14``
-- [x] ``Thema 15``
-- [ ] ``Thema 16``
+- [x] ``Thema 15`` 🔥
+- [ ] ``Thema 16`` 🔥
 - [ ] ``Thema 17``
