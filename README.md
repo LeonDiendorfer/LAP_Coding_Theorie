@@ -32,5 +32,5 @@ Umfang und Korrektheit der Ausarbeitung ist nach persönlichen Ermessen erfolgt,
 - [ ] ``Thema 13``
 - [ ] ``Thema 14``
 - [x] ``Thema 15`` 🔥
-- [ ] ``Thema 16`` 🔥
+- [x] ``Thema 16`` 🔥
 - [ ] ``Thema 17``
