@@ -16,7 +16,7 @@ Umfang und Korrektheit der Ausarbeitung ist nach persönlichen Ermessen erfolgt,
 
 ---
 
-### gefragten Themen laut Kollegen
+### Gefragten Themen laut Kollegen
 
 Beginnt mit Nachfrage über die Tätigkeiten in der Firma.<br>
 Die nachfolgenden Fragen drehen sich um die Bereiche, die man in der Firma behandelt hat.<br>
