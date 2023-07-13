@@ -16,10 +16,12 @@ Umfang und Korrektheit der Ausarbeitung ist nach persönlichen Ermessen erfolgt,
 
 ---
 
-### Meine gefragten Themen
-.
-.
-.
+### gefragten Themen laut Kollegen
+
+Beginnt mit Nachfrage über die Tätigkeiten in der Firma.<br>
+Die nachfolgenden Fragen drehen sich um die Bereiche, die man in der Firma behandelt hat.<br>
+Grundsätzlich dürfen/können sie Fragen aus jeden Themenpaket stellen, laut hören/sagen wirkt es allerdings so, das wir eher zu Bereichen gefragt werden die wir halt aus der Arbeit bereits kennen.<br>
+
 
 ---
 
