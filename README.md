@@ -33,13 +33,13 @@ Grundsätzlich dürfen/können Fragen aus jeden Themenpaket gestellt werden, lau
 - [x] ``Thema 5`` 🔥
 - [x] ``Thema 6`` 🔥
 - [x] ``Thema 7``
-- [ ] ``Thema 8``
-- [ ] ``Thema 9``
-- [ ] ``Thema 10``
+- [x] ``Thema 8``
+- [x] ``Thema 9``
+- [x] ``Thema 10``
 - [x] ``Thema 11`` 🔥
-- [ ] ``Thema 12``
-- [ ] ``Thema 13``
-- [ ] ``Thema 14``
+- [x] ``Thema 12``
+- [x] ``Thema 13``
+- [x] ``Thema 14``
 - [x] ``Thema 15`` 🔥
 - [x] ``Thema 16`` 🔥
 - [X] ``Thema 17``
