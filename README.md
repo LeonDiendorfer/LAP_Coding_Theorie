@@ -20,7 +20,7 @@ Umfang und Korrektheit der Ausarbeitung ist nach persönlichen Ermessen erfolgt,
 
 Beginnt mit Nachfrage über die Tätigkeiten in der Firma.<br>
 Die nachfolgenden Fragen drehen sich um die Bereiche, die man in der Firma behandelt hat.<br>
-Grundsätzlich dürfen/können sie Fragen aus jeden Themenpaket stellen, laut hören/sagen wirkt es allerdings so, dass man eher zu Bereichen gefragt wird die man aus der Arbeit bereits kennt.<br>
+Grundsätzlich dürfen/können Fragen aus jeden Themenpaket gestellt werden, laut hören/sagen wirkt es allerdings so, dass man eher zu Bereichen gefragt wird die man aus der Arbeit bereits kennt.<br>
 ``3 Prüfer mit á 3-6 Fragen.`` <br>
 
 ---
