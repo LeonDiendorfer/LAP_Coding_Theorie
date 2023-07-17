@@ -42,4 +42,4 @@ Grundsätzlich dürfen/können Fragen aus jeden Themenpaket gestellt werden, lau
 - [ ] ``Thema 14``
 - [x] ``Thema 15`` 🔥
 - [x] ``Thema 16`` 🔥
-- [ ] ``Thema 17``
+- [X] ``Thema 17``
