@@ -1,7 +1,7 @@
 # LAP_Coding_Theorie
 > Ausarbeitung des ``Fragenkatalog``: Themenkatalog_Applikationsentwicklung-Coding_V1_2020.pdf <br>
 > **Die Ausarbeitung der Praxis kann [hier](https://github.com/LeonDiendorfer/LAP_CODING_PRAXIS) gefunden werden**<br>
-> Ebenso eine englishe Variante [hier](https://github.com/SenselessCoding/PDO). 2-3 mal selber üben, das genügt für die LAP <br>
+> Ebenso eine englische Variante [hier](https://github.com/SenselessCoding/PDO). War als Backup gedacht falls ich einen Blackout bekomme, durch das üben aber nicht der Fall gewesen :)  <br>
 > Auf [diesem Account](https://github.com/SenselessCoding) ist sowohl Praxis als auch das Setup erklärt <br>
 
 Persönliche Zusammenfassung/Ausarbeitung der Fragen.  
