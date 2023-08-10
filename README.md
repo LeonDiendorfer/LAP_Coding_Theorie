@@ -26,21 +26,15 @@ Grundsätzlich dürfen/können Fragen aus jeden Themenpaket gestellt werden, lau
 
 ---
 
-### ToDo
-- [x] ``Thema 1``
-- [x] ``Thema 2``
-- [x] ``Thema 3``
-- [x] ``Thema 4``
-- [x] ``Thema 5`` 🔥
-- [x] ``Thema 6`` 🔥
-- [x] ``Thema 7``
-- [x] ``Thema 8``
-- [x] ``Thema 9``
-- [x] ``Thema 10``
-- [x] ``Thema 11`` 🔥
-- [x] ``Thema 12``
-- [x] ``Thema 13``
-- [x] ``Thema 14``
-- [x] ``Thema 15`` 🔥
-- [x] ``Thema 16`` 🔥
-- [X] ``Thema 17``
+### Meine Fragen
+
+- DB Arten
+- Ablauf DB Erstellung -> Normalformen
+- Data Warehouse und Schwierigkeiten damit in der Praxis
+- Public, Private, Hybrid Cloud
+- Worauf achten wenn Cloud Anbieter auswählen
+- IaaS, PaaS, IaaS
+- Wasserfallmodell, V-Modell, Scrum
+- Unterschied Compiler-Interpreter
+- Such- / Sortieralgorithmen
+- Webservice(zb rest api) -> unterschied XML-JSON 
