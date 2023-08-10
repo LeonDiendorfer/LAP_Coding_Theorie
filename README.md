@@ -1,9 +1,9 @@
 # LAP_Coding_Theorie
 > Ausarbeitung des ``Fragenkatalog``: Themenkatalog_Applikationsentwicklung-Coding_V1_2020.pdf <br>
-> **Die Ausarbeitung der Praxis kann [hier](https://github.com/LeonDiendorfer/LAP_CODING_PRAXIS) gefunden werden**<br>
-> Ebenso eine englische Variante [hier](https://github.com/SenselessCoding/PDO). War als Backup gedacht falls ich einen Blackout bekomme, durch das üben aber nicht der Fall gewesen :)  <br>
+> **Die Ausarbeitung der Praxis kann [hier](https://github.com/SenselessCoding/PDO) gefunden werden**<br>
+> War als Backup gedacht falls ich einen Blackout bekomme, durch das üben aber nicht der Fall gewesen :)  <br>
 > Die classen auf den HTML Tags sind von Tailwind (siehe Script Tag am anfang). Einfacheres CSS Design, kann aber bei der LAP komplett ignoriert werden, war keine Anforderung. <br>
-> Auf [diesem Account](https://github.com/SenselessCoding) ist sowohl Praxis als auch das Setup erklärt <br>
+> **Auf [diesem Account](https://github.com/SenselessCoding) ist sowohl Praxis als auch das Setup erklärt**<br>
 
 Persönliche Zusammenfassung/Ausarbeitung der Fragen.  
 Umfang und Korrektheit der Ausarbeitung ist nach persönlichen Ermessen erfolgt, **use at your own risk!**   
