@@ -2,7 +2,7 @@
 > Ausarbeitung des ``Fragenkatalog``: Themenkatalog_Applikationsentwicklung-Coding_V1_2020.pdf <br>
 > **Die Ausarbeitung der Praxis kann [hier](https://github.com/LeonDiendorfer/LAP_CODING_PRAXIS) gefunden werden**<br>
 > Ebenso eine englishe Variante [hier](https://github.com/SenselessCoding/PDO). 2-3 mal selber üben, das genügt für die LAP <br>
-> Auf [diesen Account]((https://github.com/SenselessCoding) ist sowohl Praxis als auch das Setup erklärt <br>
+> Auf [diesem Account](https://github.com/SenselessCoding) ist sowohl Praxis als auch das Setup erklärt <br>
 
 Persönliche Zusammenfassung/Ausarbeitung der Fragen.  
 Umfang und Korrektheit der Ausarbeitung ist nach persönlichen Ermessen erfolgt, **use at your own risk!**   
@@ -22,7 +22,7 @@ Umfang und Korrektheit der Ausarbeitung ist nach persönlichen Ermessen erfolgt,
 Beginnt mit Nachfrage über die Tätigkeiten in der Firma.<br>
 Die nachfolgenden Fragen drehen sich um die Bereiche, die man in der Firma behandelt hat.<br>
 Grundsätzlich dürfen/können Fragen aus jeden Themenpaket gestellt werden, laut hören/sagen wirkt es allerdings so, dass man eher zu Bereichen gefragt wird die man aus der Arbeit bereits kennt.<br>
-``3 Prüfer mit á 3-6 Fragen.`` <br>
+``3 Prüfer mit á 3-6 Fragen. Dauer ~30min (fühlt sich aber nur an wie 10 :) )`` <br>
 
 ---
 
