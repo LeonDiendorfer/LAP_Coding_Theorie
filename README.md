@@ -28,13 +28,13 @@ Grundsätzlich dürfen/können Fragen aus jeden Themenpaket gestellt werden, lau
 
 ### Meine Fragen
 
-- DB Arten
+- DB Arten (relationale, nicht-relationale, multimedia, ...)
 - Ablauf DB Erstellung -> Normalformen
 - Data Warehouse und Schwierigkeiten damit in der Praxis
-- Public, Private, Hybrid Cloud
-- Worauf achten wenn Cloud Anbieter auswählen
+- Public, Private, Hybrid Cloud erklären
+- Worauf achten wenn Cloud Anbieter auswählen (Flexibel, skalierbar, ...) 
 - IaaS, PaaS, IaaS
 - Wasserfallmodell, V-Modell, Scrum
 - Unterschied Compiler-Interpreter
 - Such- / Sortieralgorithmen
-- Webservice(zb rest api) -> unterschied XML-JSON 
+- Webservice(RestAPI und SOAP) -> Unterschied XML-JSON (Größe)
