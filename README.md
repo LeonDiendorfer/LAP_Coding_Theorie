@@ -1,6 +1,8 @@
 # LAP_Coding_Theorie
 > Ausarbeitung des ``Fragenkatalog``: Themenkatalog_Applikationsentwicklung-Coding_V1_2020.pdf <br>
 > **Die Ausarbeitung der Praxis kann [hier](https://github.com/LeonDiendorfer/LAP_CODING_PRAXIS) gefunden werden**
+> Ebenso eine englishe Variante [hier](https://github.com/SenselessCoding/PDO)
+> Auf [diesen Account]((https://github.com/SenselessCoding) ist sowohl Praxis als auch das Setup erklärt 
 
 Persönliche Zusammenfassung/Ausarbeitung der Fragen.  
 Umfang und Korrektheit der Ausarbeitung ist nach persönlichen Ermessen erfolgt, **use at your own risk!**   
@@ -9,7 +11,6 @@ Umfang und Korrektheit der Ausarbeitung ist nach persönlichen Ermessen erfolgt,
 
 ### Hot Topics 🔥
 ``Thema 5`` *(nicht in die Tiefe)* Gesetzliche Bestimmungen im Zusammenhang mit Applikationsentwicklung<br>
-``Thema 6`` Netzwerkdienste<br>
 ``Thema 11`` Informatik<br>
 ``Thema 15`` Grundkenntnisse des Programmierens<br>
 ``Thema 16`` Kenntnis und Verwendung von Datenbanken, Datenmodellen und Datenstrukturen<br>
